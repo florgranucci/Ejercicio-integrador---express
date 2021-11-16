@@ -1,4 +1,4 @@
-export let products = [
+export let allProducts = [
     {id: 1, name: 'Macbook', price: 1300, quantity: 40, colors: ['silver', 'black', 'white'] },
     {id: 2, name: 'Iphone', price: 1000, quantity: 50, colors: ['silver', 'red', 'white'] },
     {id: 3, name: 'Pendrive', price: 10, quantity: 10, colors: [] },
